@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/5_funcoes/bin/Debug/netcoreapp3.1/5_funcoes
+/home/flpp/Documentos/github/csharp/5_funcoes/bin/Debug/netcoreapp3.1/5_funcoes.deps.json
+/home/flpp/Documentos/github/csharp/5_funcoes/bin/Debug/netcoreapp3.1/5_funcoes.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/5_funcoes/bin/Debug/netcoreapp3.1/5_funcoes.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/5_funcoes/bin/Debug/netcoreapp3.1/5_funcoes.dll
+/home/flpp/Documentos/github/csharp/5_funcoes/bin/Debug/netcoreapp3.1/5_funcoes.pdb
+/home/flpp/Documentos/github/csharp/5_funcoes/obj/Debug/netcoreapp3.1/5_funcoes.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/5_funcoes/obj/Debug/netcoreapp3.1/5_funcoes.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/5_funcoes/obj/Debug/netcoreapp3.1/5_funcoes.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/5_funcoes/obj/Debug/netcoreapp3.1/5_funcoes.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/5_funcoes/obj/Debug/netcoreapp3.1/5_funcoes.dll
+/home/flpp/Documentos/github/csharp/5_funcoes/obj/Debug/netcoreapp3.1/5_funcoes.pdb
+/home/flpp/Documentos/github/csharp/5_funcoes/obj/Debug/netcoreapp3.1/5_funcoes.genruntimeconfig.cache

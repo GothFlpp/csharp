@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/6_while/bin/Debug/netcoreapp3.1/6_while
+/home/flpp/Documentos/github/csharp/6_while/bin/Debug/netcoreapp3.1/6_while.deps.json
+/home/flpp/Documentos/github/csharp/6_while/bin/Debug/netcoreapp3.1/6_while.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/6_while/bin/Debug/netcoreapp3.1/6_while.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/6_while/bin/Debug/netcoreapp3.1/6_while.dll
+/home/flpp/Documentos/github/csharp/6_while/bin/Debug/netcoreapp3.1/6_while.pdb
+/home/flpp/Documentos/github/csharp/6_while/obj/Debug/netcoreapp3.1/6_while.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/6_while/obj/Debug/netcoreapp3.1/6_while.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/6_while/obj/Debug/netcoreapp3.1/6_while.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/6_while/obj/Debug/netcoreapp3.1/6_while.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/6_while/obj/Debug/netcoreapp3.1/6_while.dll
+/home/flpp/Documentos/github/csharp/6_while/obj/Debug/netcoreapp3.1/6_while.pdb
+/home/flpp/Documentos/github/csharp/6_while/obj/Debug/netcoreapp3.1/6_while.genruntimeconfig.cache
