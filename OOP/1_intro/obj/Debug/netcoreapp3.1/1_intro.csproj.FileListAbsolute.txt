@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/OOP/1_intro/bin/Debug/netcoreapp3.1/1_intro
+/home/flpp/Documentos/github/csharp/OOP/1_intro/bin/Debug/netcoreapp3.1/1_intro.deps.json
+/home/flpp/Documentos/github/csharp/OOP/1_intro/bin/Debug/netcoreapp3.1/1_intro.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/OOP/1_intro/bin/Debug/netcoreapp3.1/1_intro.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/OOP/1_intro/bin/Debug/netcoreapp3.1/1_intro.dll
+/home/flpp/Documentos/github/csharp/OOP/1_intro/bin/Debug/netcoreapp3.1/1_intro.pdb
+/home/flpp/Documentos/github/csharp/OOP/1_intro/obj/Debug/netcoreapp3.1/1_intro.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/OOP/1_intro/obj/Debug/netcoreapp3.1/1_intro.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/OOP/1_intro/obj/Debug/netcoreapp3.1/1_intro.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/OOP/1_intro/obj/Debug/netcoreapp3.1/1_intro.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/OOP/1_intro/obj/Debug/netcoreapp3.1/1_intro.dll
+/home/flpp/Documentos/github/csharp/OOP/1_intro/obj/Debug/netcoreapp3.1/1_intro.pdb
+/home/flpp/Documentos/github/csharp/OOP/1_intro/obj/Debug/netcoreapp3.1/1_intro.genruntimeconfig.cache
