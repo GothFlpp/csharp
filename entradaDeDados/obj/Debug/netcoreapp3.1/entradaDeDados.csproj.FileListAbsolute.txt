@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/entradaDeDados/bin/Debug/netcoreapp3.1/entradaDeDados
+/home/flpp/Documentos/github/csharp/entradaDeDados/bin/Debug/netcoreapp3.1/entradaDeDados.deps.json
+/home/flpp/Documentos/github/csharp/entradaDeDados/bin/Debug/netcoreapp3.1/entradaDeDados.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/entradaDeDados/bin/Debug/netcoreapp3.1/entradaDeDados.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/entradaDeDados/bin/Debug/netcoreapp3.1/entradaDeDados.dll
+/home/flpp/Documentos/github/csharp/entradaDeDados/bin/Debug/netcoreapp3.1/entradaDeDados.pdb
+/home/flpp/Documentos/github/csharp/entradaDeDados/obj/Debug/netcoreapp3.1/entradaDeDados.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/entradaDeDados/obj/Debug/netcoreapp3.1/entradaDeDados.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/entradaDeDados/obj/Debug/netcoreapp3.1/entradaDeDados.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/entradaDeDados/obj/Debug/netcoreapp3.1/entradaDeDados.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/entradaDeDados/obj/Debug/netcoreapp3.1/entradaDeDados.dll
+/home/flpp/Documentos/github/csharp/entradaDeDados/obj/Debug/netcoreapp3.1/entradaDeDados.pdb
+/home/flpp/Documentos/github/csharp/entradaDeDados/obj/Debug/netcoreapp3.1/entradaDeDados.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/project1/bin/Debug/netcoreapp3.1/project1
+/home/flpp/Documentos/github/csharp/project1/bin/Debug/netcoreapp3.1/project1.deps.json
+/home/flpp/Documentos/github/csharp/project1/bin/Debug/netcoreapp3.1/project1.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/project1/bin/Debug/netcoreapp3.1/project1.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/project1/bin/Debug/netcoreapp3.1/project1.dll
+/home/flpp/Documentos/github/csharp/project1/bin/Debug/netcoreapp3.1/project1.pdb
+/home/flpp/Documentos/github/csharp/project1/obj/Debug/netcoreapp3.1/project1.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/project1/obj/Debug/netcoreapp3.1/project1.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/project1/obj/Debug/netcoreapp3.1/project1.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/project1/obj/Debug/netcoreapp3.1/project1.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/project1/obj/Debug/netcoreapp3.1/project1.dll
+/home/flpp/Documentos/github/csharp/project1/obj/Debug/netcoreapp3.1/project1.pdb
+/home/flpp/Documentos/github/csharp/project1/obj/Debug/netcoreapp3.1/project1.genruntimeconfig.cache

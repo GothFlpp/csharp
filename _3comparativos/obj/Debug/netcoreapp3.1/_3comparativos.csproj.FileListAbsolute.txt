@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/_3comparativos/bin/Debug/netcoreapp3.1/_3comparativos
+/home/flpp/Documentos/github/csharp/_3comparativos/bin/Debug/netcoreapp3.1/_3comparativos.deps.json
+/home/flpp/Documentos/github/csharp/_3comparativos/bin/Debug/netcoreapp3.1/_3comparativos.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/_3comparativos/bin/Debug/netcoreapp3.1/_3comparativos.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/_3comparativos/bin/Debug/netcoreapp3.1/_3comparativos.dll
+/home/flpp/Documentos/github/csharp/_3comparativos/bin/Debug/netcoreapp3.1/_3comparativos.pdb
+/home/flpp/Documentos/github/csharp/_3comparativos/obj/Debug/netcoreapp3.1/_3comparativos.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/_3comparativos/obj/Debug/netcoreapp3.1/_3comparativos.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/_3comparativos/obj/Debug/netcoreapp3.1/_3comparativos.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/_3comparativos/obj/Debug/netcoreapp3.1/_3comparativos.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/_3comparativos/obj/Debug/netcoreapp3.1/_3comparativos.dll
+/home/flpp/Documentos/github/csharp/_3comparativos/obj/Debug/netcoreapp3.1/_3comparativos.pdb
+/home/flpp/Documentos/github/csharp/_3comparativos/obj/Debug/netcoreapp3.1/_3comparativos.genruntimeconfig.cache
