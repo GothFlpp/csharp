@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/4_if_else/bin/Debug/netcoreapp3.1/4_if_else
+/home/flpp/Documentos/github/csharp/4_if_else/bin/Debug/netcoreapp3.1/4_if_else.deps.json
+/home/flpp/Documentos/github/csharp/4_if_else/bin/Debug/netcoreapp3.1/4_if_else.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/4_if_else/bin/Debug/netcoreapp3.1/4_if_else.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/4_if_else/bin/Debug/netcoreapp3.1/4_if_else.dll
+/home/flpp/Documentos/github/csharp/4_if_else/bin/Debug/netcoreapp3.1/4_if_else.pdb
+/home/flpp/Documentos/github/csharp/4_if_else/obj/Debug/netcoreapp3.1/4_if_else.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/4_if_else/obj/Debug/netcoreapp3.1/4_if_else.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/4_if_else/obj/Debug/netcoreapp3.1/4_if_else.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/4_if_else/obj/Debug/netcoreapp3.1/4_if_else.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/4_if_else/obj/Debug/netcoreapp3.1/4_if_else.dll
+/home/flpp/Documentos/github/csharp/4_if_else/obj/Debug/netcoreapp3.1/4_if_else.pdb
+/home/flpp/Documentos/github/csharp/4_if_else/obj/Debug/netcoreapp3.1/4_if_else.genruntimeconfig.cache
