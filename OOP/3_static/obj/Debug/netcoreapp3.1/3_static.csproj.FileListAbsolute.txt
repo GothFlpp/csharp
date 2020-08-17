@@ -11,3 +11,16 @@
 /home/flpp/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.dll
 /home/flpp/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.pdb
 /home/flpp/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.genruntimeconfig.cache
+/home/blue/Documentos/github/csharp/OOP/3_static/bin/Debug/netcoreapp3.1/3_static
+/home/blue/Documentos/github/csharp/OOP/3_static/bin/Debug/netcoreapp3.1/3_static.deps.json
+/home/blue/Documentos/github/csharp/OOP/3_static/bin/Debug/netcoreapp3.1/3_static.runtimeconfig.json
+/home/blue/Documentos/github/csharp/OOP/3_static/bin/Debug/netcoreapp3.1/3_static.runtimeconfig.dev.json
+/home/blue/Documentos/github/csharp/OOP/3_static/bin/Debug/netcoreapp3.1/3_static.dll
+/home/blue/Documentos/github/csharp/OOP/3_static/bin/Debug/netcoreapp3.1/3_static.pdb
+/home/blue/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.csprojAssemblyReference.cache
+/home/blue/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.AssemblyInfoInputs.cache
+/home/blue/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.AssemblyInfo.cs
+/home/blue/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.csproj.CoreCompileInputs.cache
+/home/blue/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.dll
+/home/blue/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.pdb
+/home/blue/Documentos/github/csharp/OOP/3_static/obj/Debug/netcoreapp3.1/3_static.genruntimeconfig.cache

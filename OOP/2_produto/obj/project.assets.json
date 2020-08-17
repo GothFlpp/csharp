@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/home/flpp/.nuget/packages/": {}
+    "/home/blue/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/flpp/Documentos/github/csharp/OOP/2_produto/2_produto.csproj",
+      "projectUniqueName": "/home/blue/Documentos/github/csharp/OOP/2_produto/2_produto.csproj",
       "projectName": "2_produto",
-      "projectPath": "/home/flpp/Documentos/github/csharp/OOP/2_produto/2_produto.csproj",
-      "packagesPath": "/home/flpp/.nuget/packages/",
-      "outputPath": "/home/flpp/Documentos/github/csharp/OOP/2_produto/obj/",
+      "projectPath": "/home/blue/Documentos/github/csharp/OOP/2_produto/2_produto.csproj",
+      "packagesPath": "/home/blue/.nuget/packages/",
+      "outputPath": "/home/blue/Documentos/github/csharp/OOP/2_produto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/flpp/.nuget/NuGet/NuGet.Config"
+        "/home/blue/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

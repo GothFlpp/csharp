@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VRAIpddUwjhrBjKhBSHjELKhbmMzQd5jw+iFzZ85jN15i2RK65aatM5Q75QDeF0edKeby/VwgynCb7qZ3QmG4w==",
+  "dgSpecHash": "0gwxwsey0aytkXEKv5VuXWIscg9fc0CXNiMTjuwT3j6TsUPMHsmfwAeZYAmcHpcoq1igwvk9/9pQJW8JsA31qQ==",
   "success": true,
-  "projectFilePath": "/home/flpp/Documentos/github/csharp/OOP/3_static/3_static.csproj",
+  "projectFilePath": "/home/blue/Documentos/github/csharp/OOP/3_static/3_static.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
