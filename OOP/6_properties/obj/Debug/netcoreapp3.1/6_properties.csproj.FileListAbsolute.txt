@@ -1,0 +1,13 @@
+/home/blue/Documentos/github/csharp/OOP/6_properties/bin/Debug/netcoreapp3.1/6_properties
+/home/blue/Documentos/github/csharp/OOP/6_properties/bin/Debug/netcoreapp3.1/6_properties.deps.json
+/home/blue/Documentos/github/csharp/OOP/6_properties/bin/Debug/netcoreapp3.1/6_properties.runtimeconfig.json
+/home/blue/Documentos/github/csharp/OOP/6_properties/bin/Debug/netcoreapp3.1/6_properties.runtimeconfig.dev.json
+/home/blue/Documentos/github/csharp/OOP/6_properties/bin/Debug/netcoreapp3.1/6_properties.dll
+/home/blue/Documentos/github/csharp/OOP/6_properties/bin/Debug/netcoreapp3.1/6_properties.pdb
+/home/blue/Documentos/github/csharp/OOP/6_properties/obj/Debug/netcoreapp3.1/6_properties.csprojAssemblyReference.cache
+/home/blue/Documentos/github/csharp/OOP/6_properties/obj/Debug/netcoreapp3.1/6_properties.AssemblyInfoInputs.cache
+/home/blue/Documentos/github/csharp/OOP/6_properties/obj/Debug/netcoreapp3.1/6_properties.AssemblyInfo.cs
+/home/blue/Documentos/github/csharp/OOP/6_properties/obj/Debug/netcoreapp3.1/6_properties.csproj.CoreCompileInputs.cache
+/home/blue/Documentos/github/csharp/OOP/6_properties/obj/Debug/netcoreapp3.1/6_properties.dll
+/home/blue/Documentos/github/csharp/OOP/6_properties/obj/Debug/netcoreapp3.1/6_properties.pdb
+/home/blue/Documentos/github/csharp/OOP/6_properties/obj/Debug/netcoreapp3.1/6_properties.genruntimeconfig.cache
