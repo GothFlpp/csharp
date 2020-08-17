@@ -1,0 +1,13 @@
+/home/blue/Documentos/github/csharp/OOP/8_final/obj/Debug/netcoreapp3.1/8_final.csprojAssemblyReference.cache
+/home/blue/Documentos/github/csharp/OOP/8_final/obj/Debug/netcoreapp3.1/8_final.AssemblyInfoInputs.cache
+/home/blue/Documentos/github/csharp/OOP/8_final/obj/Debug/netcoreapp3.1/8_final.AssemblyInfo.cs
+/home/blue/Documentos/github/csharp/OOP/8_final/obj/Debug/netcoreapp3.1/8_final.csproj.CoreCompileInputs.cache
+/home/blue/Documentos/github/csharp/OOP/8_final/bin/Debug/netcoreapp3.1/8_final
+/home/blue/Documentos/github/csharp/OOP/8_final/bin/Debug/netcoreapp3.1/8_final.deps.json
+/home/blue/Documentos/github/csharp/OOP/8_final/bin/Debug/netcoreapp3.1/8_final.runtimeconfig.json
+/home/blue/Documentos/github/csharp/OOP/8_final/bin/Debug/netcoreapp3.1/8_final.runtimeconfig.dev.json
+/home/blue/Documentos/github/csharp/OOP/8_final/bin/Debug/netcoreapp3.1/8_final.dll
+/home/blue/Documentos/github/csharp/OOP/8_final/bin/Debug/netcoreapp3.1/8_final.pdb
+/home/blue/Documentos/github/csharp/OOP/8_final/obj/Debug/netcoreapp3.1/8_final.dll
+/home/blue/Documentos/github/csharp/OOP/8_final/obj/Debug/netcoreapp3.1/8_final.pdb
+/home/blue/Documentos/github/csharp/OOP/8_final/obj/Debug/netcoreapp3.1/8_final.genruntimeconfig.cache
