@@ -1,0 +1,13 @@
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/bin/Debug/netcoreapp3.1/5_encapsulamento
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/bin/Debug/netcoreapp3.1/5_encapsulamento.deps.json
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/bin/Debug/netcoreapp3.1/5_encapsulamento.runtimeconfig.json
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/bin/Debug/netcoreapp3.1/5_encapsulamento.runtimeconfig.dev.json
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/bin/Debug/netcoreapp3.1/5_encapsulamento.dll
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/bin/Debug/netcoreapp3.1/5_encapsulamento.pdb
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/obj/Debug/netcoreapp3.1/5_encapsulamento.csprojAssemblyReference.cache
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/obj/Debug/netcoreapp3.1/5_encapsulamento.AssemblyInfoInputs.cache
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/obj/Debug/netcoreapp3.1/5_encapsulamento.AssemblyInfo.cs
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/obj/Debug/netcoreapp3.1/5_encapsulamento.csproj.CoreCompileInputs.cache
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/obj/Debug/netcoreapp3.1/5_encapsulamento.dll
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/obj/Debug/netcoreapp3.1/5_encapsulamento.pdb
+/home/blue/Documentos/github/csharp/OOP/5_encapsulamento/obj/Debug/netcoreapp3.1/5_encapsulamento.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/bin/Debug/netcoreapp3.1/4_contrutores
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/bin/Debug/netcoreapp3.1/4_contrutores.deps.json
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/bin/Debug/netcoreapp3.1/4_contrutores.runtimeconfig.json
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/bin/Debug/netcoreapp3.1/4_contrutores.runtimeconfig.dev.json
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/bin/Debug/netcoreapp3.1/4_contrutores.dll
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/bin/Debug/netcoreapp3.1/4_contrutores.pdb
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/obj/Debug/netcoreapp3.1/4_contrutores.csprojAssemblyReference.cache
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/obj/Debug/netcoreapp3.1/4_contrutores.AssemblyInfoInputs.cache
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/obj/Debug/netcoreapp3.1/4_contrutores.AssemblyInfo.cs
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/obj/Debug/netcoreapp3.1/4_contrutores.csproj.CoreCompileInputs.cache
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/obj/Debug/netcoreapp3.1/4_contrutores.dll
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/obj/Debug/netcoreapp3.1/4_contrutores.pdb
+/home/blue/Documentos/github/csharp/OOP/4_contrutores/obj/Debug/netcoreapp3.1/4_contrutores.genruntimeconfig.cache
