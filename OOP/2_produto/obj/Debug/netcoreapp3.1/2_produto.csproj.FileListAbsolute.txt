@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/OOP/2_produto/bin/Debug/netcoreapp3.1/2_produto
+/home/flpp/Documentos/github/csharp/OOP/2_produto/bin/Debug/netcoreapp3.1/2_produto.deps.json
+/home/flpp/Documentos/github/csharp/OOP/2_produto/bin/Debug/netcoreapp3.1/2_produto.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/OOP/2_produto/bin/Debug/netcoreapp3.1/2_produto.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/OOP/2_produto/bin/Debug/netcoreapp3.1/2_produto.dll
+/home/flpp/Documentos/github/csharp/OOP/2_produto/bin/Debug/netcoreapp3.1/2_produto.pdb
+/home/flpp/Documentos/github/csharp/OOP/2_produto/obj/Debug/netcoreapp3.1/2_produto.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/OOP/2_produto/obj/Debug/netcoreapp3.1/2_produto.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/OOP/2_produto/obj/Debug/netcoreapp3.1/2_produto.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/OOP/2_produto/obj/Debug/netcoreapp3.1/2_produto.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/OOP/2_produto/obj/Debug/netcoreapp3.1/2_produto.dll
+/home/flpp/Documentos/github/csharp/OOP/2_produto/obj/Debug/netcoreapp3.1/2_produto.pdb
+/home/flpp/Documentos/github/csharp/OOP/2_produto/obj/Debug/netcoreapp3.1/2_produto.genruntimeconfig.cache
