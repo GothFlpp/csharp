@@ -1,0 +1,13 @@
+/home/blue/Documentos/github/csharp/OOP/9_structs/bin/Debug/netcoreapp3.1/9_structs
+/home/blue/Documentos/github/csharp/OOP/9_structs/bin/Debug/netcoreapp3.1/9_structs.deps.json
+/home/blue/Documentos/github/csharp/OOP/9_structs/bin/Debug/netcoreapp3.1/9_structs.runtimeconfig.json
+/home/blue/Documentos/github/csharp/OOP/9_structs/bin/Debug/netcoreapp3.1/9_structs.runtimeconfig.dev.json
+/home/blue/Documentos/github/csharp/OOP/9_structs/bin/Debug/netcoreapp3.1/9_structs.dll
+/home/blue/Documentos/github/csharp/OOP/9_structs/bin/Debug/netcoreapp3.1/9_structs.pdb
+/home/blue/Documentos/github/csharp/OOP/9_structs/obj/Debug/netcoreapp3.1/9_structs.csprojAssemblyReference.cache
+/home/blue/Documentos/github/csharp/OOP/9_structs/obj/Debug/netcoreapp3.1/9_structs.AssemblyInfoInputs.cache
+/home/blue/Documentos/github/csharp/OOP/9_structs/obj/Debug/netcoreapp3.1/9_structs.AssemblyInfo.cs
+/home/blue/Documentos/github/csharp/OOP/9_structs/obj/Debug/netcoreapp3.1/9_structs.csproj.CoreCompileInputs.cache
+/home/blue/Documentos/github/csharp/OOP/9_structs/obj/Debug/netcoreapp3.1/9_structs.dll
+/home/blue/Documentos/github/csharp/OOP/9_structs/obj/Debug/netcoreapp3.1/9_structs.pdb
+/home/blue/Documentos/github/csharp/OOP/9_structs/obj/Debug/netcoreapp3.1/9_structs.genruntimeconfig.cache

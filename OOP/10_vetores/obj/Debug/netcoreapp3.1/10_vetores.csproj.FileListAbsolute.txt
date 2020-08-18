@@ -1,0 +1,13 @@
+/home/blue/Documentos/github/csharp/OOP/10_vetores/obj/Debug/netcoreapp3.1/10_vetores.csprojAssemblyReference.cache
+/home/blue/Documentos/github/csharp/OOP/10_vetores/obj/Debug/netcoreapp3.1/10_vetores.AssemblyInfoInputs.cache
+/home/blue/Documentos/github/csharp/OOP/10_vetores/obj/Debug/netcoreapp3.1/10_vetores.AssemblyInfo.cs
+/home/blue/Documentos/github/csharp/OOP/10_vetores/obj/Debug/netcoreapp3.1/10_vetores.csproj.CoreCompileInputs.cache
+/home/blue/Documentos/github/csharp/OOP/10_vetores/bin/Debug/netcoreapp3.1/10_vetores
+/home/blue/Documentos/github/csharp/OOP/10_vetores/bin/Debug/netcoreapp3.1/10_vetores.deps.json
+/home/blue/Documentos/github/csharp/OOP/10_vetores/bin/Debug/netcoreapp3.1/10_vetores.runtimeconfig.json
+/home/blue/Documentos/github/csharp/OOP/10_vetores/bin/Debug/netcoreapp3.1/10_vetores.runtimeconfig.dev.json
+/home/blue/Documentos/github/csharp/OOP/10_vetores/bin/Debug/netcoreapp3.1/10_vetores.dll
+/home/blue/Documentos/github/csharp/OOP/10_vetores/bin/Debug/netcoreapp3.1/10_vetores.pdb
+/home/blue/Documentos/github/csharp/OOP/10_vetores/obj/Debug/netcoreapp3.1/10_vetores.dll
+/home/blue/Documentos/github/csharp/OOP/10_vetores/obj/Debug/netcoreapp3.1/10_vetores.pdb
+/home/blue/Documentos/github/csharp/OOP/10_vetores/obj/Debug/netcoreapp3.1/10_vetores.genruntimeconfig.cache
