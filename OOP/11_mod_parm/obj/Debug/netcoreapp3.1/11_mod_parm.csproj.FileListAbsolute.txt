@@ -1,0 +1,13 @@
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/bin/Debug/netcoreapp3.1/11_mod_parm
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/bin/Debug/netcoreapp3.1/11_mod_parm.deps.json
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/bin/Debug/netcoreapp3.1/11_mod_parm.runtimeconfig.json
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/bin/Debug/netcoreapp3.1/11_mod_parm.runtimeconfig.dev.json
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/bin/Debug/netcoreapp3.1/11_mod_parm.dll
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/bin/Debug/netcoreapp3.1/11_mod_parm.pdb
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/obj/Debug/netcoreapp3.1/11_mod_parm.csprojAssemblyReference.cache
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/obj/Debug/netcoreapp3.1/11_mod_parm.AssemblyInfoInputs.cache
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/obj/Debug/netcoreapp3.1/11_mod_parm.AssemblyInfo.cs
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/obj/Debug/netcoreapp3.1/11_mod_parm.csproj.CoreCompileInputs.cache
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/obj/Debug/netcoreapp3.1/11_mod_parm.dll
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/obj/Debug/netcoreapp3.1/11_mod_parm.pdb
+/home/flpp/Documentos/github/csharp/OOP/11_mod_parm/obj/Debug/netcoreapp3.1/11_mod_parm.genruntimeconfig.cache
