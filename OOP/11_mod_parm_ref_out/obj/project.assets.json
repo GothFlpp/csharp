@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/blue/Documentos/github/csharp/OOP/11_mod_parm/11_mod_parm.csproj",
-      "projectName": "11_mod_parm",
-      "projectPath": "/home/blue/Documentos/github/csharp/OOP/11_mod_parm/11_mod_parm.csproj",
+      "projectUniqueName": "/home/blue/Documentos/github/csharp/OOP/11_mod_parm_ref_out/11_mod_parm_ref_out.csproj",
+      "projectName": "11_mod_parm_ref_out",
+      "projectPath": "/home/blue/Documentos/github/csharp/OOP/11_mod_parm_ref_out/11_mod_parm_ref_out.csproj",
       "packagesPath": "/home/blue/.nuget/packages/",
-      "outputPath": "/home/blue/Documentos/github/csharp/OOP/11_mod_parm/obj/",
+      "outputPath": "/home/blue/Documentos/github/csharp/OOP/11_mod_parm_ref_out/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/blue/.nuget/NuGet/NuGet.Config"
